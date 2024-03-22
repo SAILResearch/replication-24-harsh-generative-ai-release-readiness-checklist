@@ -1,0 +1,38 @@
+[tool.poetry]
+name = "grey-llm-release"
+version = "0.1.0"
+description = ""
+authors = ["Harsh Patel <pharsh58@gmail.com>"]
+readme = "README.md"
+packages = [{include = "grey_llm_release"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+aiohttp = "^3.8.5"
+pydantic-settings = "^2.0.3"
+pydantic = "^2.2.0"
+google-search-results = "^2.4.2"
+
+
+[tool.poetry.group.dev.dependencies]
+ipykernel = "^6.25.1"
+black = "^23.7.0"
+flake8 = "^6.1.0"
+mypy = "^1.5.1"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.poetry.scripts]
+collect = "grey_llm_release.collect:main"
+process = "grey_llm_release.process:main"
+dedup = "grey_llm_release.dedup:main"
+
+[tool.black]
+line-length = 100
+target-version = ['py310']
+
+[tool.isort]
+profile = "black"
+src_paths = ["grey_llm_release", "tests"]

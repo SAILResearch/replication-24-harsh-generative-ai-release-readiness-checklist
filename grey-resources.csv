@@ -1,0 +1,68 @@
+#,url,title,year,resource type,company
+1,https://www.youtube.com/watch?v=spamOhG7BOA&t=12s,Building LLM applications for production,2023,blog/article,n/a
+2,https://eugeneyan.com/writing/llm-patterns/,Design Patterns for LLM Systems & Products,2023,blog/article,n/a
+3,https://www.youtube.com/watch?v=JtQMHdhiwxg,The Confidence Checklist for LLMs in Production,2023,conference/video,portkey.ai
+4,https://www.youtube.com/watch?v=-bmynyCJVBg,Emerging Patterns for LLMs in Production,2023,conference/video,in-stealth
+5,https://medium.com/@_aigeek/best-practices-for-deploying-large-language-models-llms-in-production-fdc5bf240d6a,Best Practices for Deploying Large Language Models (LLMs) in Production,2023,blog/article,n/a
+6,https://aws.amazon.com/blogs/machine-learning/fmops-llmops-operationalize-generative-ai-and-differences-with-mlops/,FMOps/LLMOps: Operationalize generative AI and differences with MLOps,2023,blog/article,amazon
+7,https://a16z.com/emerging-architectures-for-llm-applications/,Emerging Architectures for LLM Applications,2023,blog/article,a16z
+8,"https://arxiv.org/abs/2302.04844
+https://www.youtube.com/watch?v=8_-QTw8ugas",[2302.04844] The Gradient of Generative AI Release,2023,paper,huggingface
+9,https://arize.com/blog-course/large-language-model-llm-deployment/,Best Practices for Large Language Model (LLM) Deployment,2023,blog/article,arize
+10,https://arize.com/blog-course/llmops-operationalizing-llms-at-scale/,A Developer’s Guide To LLMOps (Large Language Model Operations): Operationalizing LLMs,2023,blog/article,arize
+11,https://arize.com/blog-course/traces-spans-large-language-model-orchestration/,"LLM Observability: One Small Step for Spans, One Giant Leap for Span-Kinds",2023,blog/article,arize
+12,https://arize.com/blog-course/assessing-large-language-models/,LLM Evaluation: Assessing Large Language Models Using Their Peers,2023,blog/article,arize
+13,https://arize.com/blog-course/guardrails-what-are-they-and-how-can-you-use-nemo-and-guardrails-ai-to-safeguard-llms/,Guardrails: What Are They and How Can You Use NeMo and Guardrails AI To Safeguard LLMs?,2023,blog/article,arize
+14,https://arize.com/blog-course/introduction-to-retrieval-augmented-generation/,Introduction To Retrieval Augmented Generation,2023,blog/article,arize
+15,https://arize.com/blog-course/ai-agents-when-and-how-to-implement-langchain-llamaindex-babyagi/,AI Agents: When and How To Implement,2023,blog/article,arize
+16,https://whylabs.ai/blog/posts/best-practices-monitoring-large-language-models-in-nlp,Best Practices for Monitoring Large Language Models,2023,blog/article,whylabs
+17,"https://www.unusual.vc/post/devtools-for-language-models
+https://www.youtube.com/watch?v=tkL2c-16fXc",DevTools for Language Models: Unlocking the Future of AI-Driven Applications,2023,conference/video,factory
+18,https://www.youtube.com/watch?v=3litPFfQvuU,Age of Industrialized AI,2023,conference/video,ai infrastructure alliance
+19,https://www.youtube.com/watch?v=lnbx4dOW220,No rose without a thorn - Obstacles to Successful LLM Deployments,2023,conference/video,neeva
+20,https://www.youtube.com/watch?v=BN-txmqGxvQ,Why specialized NLP models might be the secret to easier LLM deployment,2023,conference/video,titan ml
+21,https://www.youtube.com/watch?v=QNg49s10kjQ,Beyond the Hype: Ensuring Accuracy and Quality in LLM-driven Products,2023,conference/video,autoblocks
+22,https://www.youtube.com/watch?v=e_9o4los7DQ,Guardrails for LLMs: A Practical Approach,2023,conference/video,guardrails
+23,https://www.youtube.com/watch?v=ERdd5Ts7Bdg,Sharing the Wheel: Guiding LLMs While Staying in the Driver's Seat,2023,conference/video,adept ai
+24,https://www.youtube.com/watch?v=xPwGyWugyVs,Controlled and Compliant AI Applications,2023,conference/video,prediction guard
+25,https://openai.com/blog/best-practices-for-deploying-language-models,Best practices for deploying language models,2022,blog/article,openai
+26,https://boringappsec.substack.com/p/edition-21-a-framework-to-securely,Edition 21: A framework to securely use LLMs in companies,2023,blog/article,boringappsec
+27,https://boringappsec.substack.com/p/edition-22-a-framework-to-securely,Edition 22: A framework to securely use LLMs in companies - Part 2: Managing risk,2023,blog/article,boringappsec
+28,https://www.anyscale.com/blog/ray-common-production-challenges-for-generative-ai-infrastructure,How Ray Solves Common Production Challenges for Generative AI Infrastructure,2023,blog/article,anyscale
+29,https://icml.cc/virtual/2023/28988,Challenges with alignment in practice,2023,conference/video,anthropic
+30,https://icml.cc/virtual/2023/28990,Challenges in deploying large language models in collaborative tools for professional creative writers,2023,conference/video,google/deepmind
+31,https://icml.cc/virtual/2023/28991,Health system scale large language model,2023,conference/video,genentech
+32,https://www.honeycomb.io/blog/improving-llms-production-observability,Improving LLMs in Production With Observability,2023,blog/article,honeycomb
+33,https://www.edx.org/learn/computer-science/databricks-large-language-models-application-through-production,Large Language Models: Application through Production,2023,course/video,databricks
+34,https://www.linkedin.com/pulse/3-things-chatgpt-needs-before-can-deployed-customer-service-ghoche,3 Things ChatGPT Needs Before it Can be Deployed in Customer Service,2022,blog/article,forethought
+35,https://www.aporia.com/learn/how-to-monitor-large-language-models/,"Monitoring LLMs: Metrics, challenges, & hallucinations - Aporia",2023,blog/article,aporia
+36,https://wandb.ai/iamleonie/Articles/reports/Understanding-LLMOps-Large-Language-Model-Operations--Vmlldzo0MDgyMDc2,Understanding LLMOps: Large Language Model Operations,2023,blog/article,wandb
+37,https://www.altmansolon.com/insights/from-out-of-the-box-to-tailor-made-developing-and-deploying-enterprise-generative-ai-tools/,From Out-of-the-Box to Tailor-Made Developing and Deploying Enterprise Generative AI Tools,2023,blog/article,altmansolon
+38,https://www.youtube.com/watch?v=Pft04KLw5Lk,Emerging architectures for LLM applications,2023,blog/article,superwise
+39,https://bhr.stern.nyu.edu/tech-generativeai,Safeguarding AI: Addressing the Risks of Generative Artificial Intelligence,2023,report,nyu
+40,https://www.labellerr.com/blog/security-challenges-in-llm-adoption-for-enterprises/,Security Challenges in LLM Adoption for Enterprises and How to Solve Them,2023,blog/article,labeller
+41,https://www.fiddler.ai/blog/llmops-the-future-of-mlops-for-generative-ai,LLMOps: The Future of MLOps for Generative AI,2023,blog/article,fiddler
+42,https://dr-arsanjani.medium.com/the-generative-ai-life-cycle-fb2271a70349,The Generative AI Life-cycle,2023,blog/article,amazon
+43,https://www.battery.com/blog/ai-governance-stack/,Comply or Die: The Rise of the AI Governance Stack,2023,blog/article,battery
+44,https://www.sequoiacap.com/article/llm-stack-perspective/?itm_medium=related-content&itm_source=sequoiacap.com,The New Language Model Stack,2023,blog/article,sequoiacap
+45,https://www.sequoiacap.com/article/ai-50-2023/?itm_medium=related-content&itm_source=sequoiacap.com,Generative AI Is Exploding. These Are The Most Important Trends To Know,2023,blog/article,sequoiacap
+46,https://www.sequoiacap.com/article/generative-ai-act-two/,Generative AI’s Act Two,2023,blog/article,sequoiacap
+47,https://www.fiddler.ai/blog/four-ways-that-enterprises-deploy-llms,Four Ways that Enterprises Deploy LLMs,2023,blog/article,fiddler
+48,https://arxiv.org/pdf/2305.15324,Model evaluation for extreme risks,2023,paper,deepmind
+49,https://developers.generativeai.google/guide/safety_guidance,Safety guidance | PaLM API | Generative AI for Developers,2023,blog/article,google
+50,https://dl.acm.org/doi/10.1145/3531146.3533088,Taxonomy of Risks posed by Language Models,2022,paper,deepmind
+51,https://link.springer.com/article/10.1007/s43681-023-00289-2,Auditing large language models: a three-layered approach,2023,blog/article,oxford
+52,https://ai.google/responsibility/responsible-ai-practices/,Responsible AI Practices,2018,blog/article,google
+53,https://learn.microsoft.com/en-us/legal/cognitive-services/openai/overview,Overview of Responsible AI practices for Azure OpenAI models,2023,blog/article,microsoft
+54,https://developer.nvidia.com/blog/nvidia-enables-trustworthy-safe-and-secure-large-language-model-conversational-systems/,"NVIDIA Enables Trustworthy, Safe, and Secure Large Language Model Conversational Systems",2023,blog/article,nvidia
+55,https://jakobs.dev/llm-production-learnings-0/,From Concept to practice: Learnings from LLMs for Enterprise Production – Part 0,2023,blog/article,microsoft
+56,https://blog.langchain.dev/evaluating-rag-pipelines-with-ragas-langsmith/,Evaluating RAG pipelines with Ragas + LangSmith,2023,blog/article,langchain
+57,https://jytan.net/posts/llm-reliability/,Concepts for Reliability of LLMs in Production,2023,blog/article,6sense
+58,https://uptrain.ai/blog/how-to-evaluate-your-llm-applications,How to Evaluate Your LLM Applications?,2023,blog/article,uptrain
+59,https://www.promptingguide.ai/,Prompt Engineering Guide,2023,blog/article,dair.ai
+60,https://www.youtube.com/watch?v=-eXZhgE1_N4,Emerging Architectures for LLMs Applications,2023,conference/video,data science dojo
+61,https://www.seldon.io/exploring-llm-apps-the-langchain-paradigm,Exploring LLM Apps: the LangChain Paradigm and Future Alternatives,2023,blog/article,seldon
+62,https://www.seldon.io/orchestrating-llms-in-production,Deploying Large Language Models in Production: Orchestrating LLMs,2023,blog/article,seldon
+63,https://www.seldon.io/deploying-large-language-models-in-production,Deploying Large Language Models in Production: The Anatomy of LLM Applications,2023,blog/article,seldon
+64,https://www.seldon.io/deploying-large-language-models-in-production-llm-deployment-challenges,Deploying Large Language Models in Production: LLM Deployment Challenges,2023,blog/article,seldon
+65,https://magazine.sebastianraschka.com/p/finetuning-large-language-models,Finetuning Large Language Models,2023,blog/article,n/a
